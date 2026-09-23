@@ -87,7 +87,7 @@ Work experience
   <div style="flex:1; min-width:0;">
     <strong>SONY Stuttgart Laboratory 1</strong><br>
     Research intern<br>
-    <small> Stuttgart, Germany, Mar 2024 - Sep 2026 </small>
+    <small> Stuttgart, Germany, Mar 2024 - Sep 2024 </small>
     <br>Developed a sparse-view 3D reconstruction pipeline by leveraging multi-view diffusion models<br>
   </div>
 </div>
