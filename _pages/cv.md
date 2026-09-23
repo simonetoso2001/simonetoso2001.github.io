@@ -56,7 +56,7 @@ Education
     BSc in Physics<br>
     <small> 2019 – 2022 </small><br>
     <strong>Grade:</strong> 110/110 with honours<br>
-    <strong>Thesis:</strong> General statistical laws in complex component systems
+    <strong>Thesis:</strong> General statistical laws in many-component systems
   </div>
 </div>
 
