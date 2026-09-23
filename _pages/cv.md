@@ -72,7 +72,7 @@ Work experience
   <div style="flex:1; min-width:0;">
     <strong>Fondazione Bruno Kessler</strong><br>
     Technologist<br>
-    <small> Trento, Italy, 2024 – 2026 </small><br>
+    <small> Trento, Italy, 2024 – 2026 </small>
     <br>Worked on developing ML solutions for industrial clients<br>
   </div>
 </div>
