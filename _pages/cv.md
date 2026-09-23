@@ -11,54 +11,94 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:24px;">
+  <img src="{{ '/images/bocconi.png' | relative_url }}"
+       alt=""
+       style="width:60px !important; height:60px !important;
+              max-width:60px !important; object-fit:contain;
+              flex:0 0 60px; margin:0;">
+
+  <div style="flex:1; min-width:0;">
+    <strong>Bocconi University</strong><br>
+    PhD in Computer Science<br>
+    <small> 2026 – Today </small><br>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:24px;">
+  <img src="{{ '/images/padova.png' | relative_url }}"
+       alt=""
+       style="width:60px !important; height:60px !important;
+              max-width:60px !important; object-fit:contain;
+              flex:0 0 60px; margin:0;">
+
+  <div style="flex:1; min-width:0;">
+    <strong>Università degli Studi di Padova</strong><br>
+    MSc in Physics of Data<br>
+    <small> 2022 – 2024 </small><br>
+    <strong>Grade:</strong> 110/110 with honours<br>
+    <strong>Thesis:</strong> Leveraging generative models for the optimization of 3D implicit representations
+    <ul>
+      <li>Research thesis based on the work done during my internship at SONY</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:24px;">
+  <img src="{{ '/images/padova.png' | relative_url }}"
+       alt=""
+       style="width:60px !important; height:60px !important;
+              max-width:60px !important; object-fit:contain;
+              flex:0 0 60px; margin:0;">
+
+  <div style="flex:1; min-width:0;">
+    <strong>Università degli Studi di Padova</strong><br>
+    BSc in Physics<br>
+    <small> 2019 – 2022 </small><br>
+    <strong>Grade:</strong> 110/110 with honours<br>
+    <strong>Thesis:</strong> General statistical laws in complex component systems
+  </div>
+</div>
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:24px;">
+  <img src="{{ '/images/fbk.png' | relative_url }}"
+       alt=""
+       style="width:60px !important; height:60px !important;
+              max-width:60px !important; object-fit:contain;
+              flex:0 0 60px; margin:0;">
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <div style="flex:1; min-width:0;">
+    <strong>Fondazione Bruno Kessler</strong><br>
+    Technologist<br>
+    <small> 2024 – 2026 </small><br>
+    <br>Worked on developing ML solutions for industrial clients<br>
+  </div>
+</div>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:24px;">
+  <img src="{{ '/images/sony.png' | relative_url }}"
+       alt=""
+       style="width:60px !important; height:60px !important;
+              max-width:60px !important; object-fit:contain;
+              flex:0 0 60px; margin:0;">
+
+  <div style="flex:1; min-width:0;">
+    <strong>SONY Stuttgart Laboratory 1</strong><br>
+    Research intern<br>
+    <small> Mar 2024 – Sept 2024 </small><br>
+    <br>Developed a sparse-view 3D reconstruction pipeline by leveraging multi-view diffusion models<br>
+  </div>
+</div>
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experienced in Python. Extensive use of PyTorch to design and train deep neural networks. 
+* Working experience with `bash`, `slurm`, `git`, `docker`, `uv`, `conda`
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

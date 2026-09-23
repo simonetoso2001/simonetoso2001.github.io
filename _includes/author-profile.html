@@ -170,7 +170,12 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+      <li>
+      <a href="{{ '/files/CV_Toso.pdf' | relative_url }}" download="CV.pdf">
+        <i class="fas fa-fw fa-file-pdf icon-pad-right" aria-hidden="true"></i>CV
+      </a>
+      </li>      
     </ul>
   </div>
 </div>
