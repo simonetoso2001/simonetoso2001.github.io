@@ -72,7 +72,7 @@ Work experience
   <div style="flex:1; min-width:0;">
     <strong>Fondazione Bruno Kessler</strong><br>
     Technologist<br>
-    <small> 2024 – 2026 </small><br>
+    <small> Trento, Italy, 2024 – 2026 </small><br>
     <br>Worked on developing ML solutions for industrial clients<br>
   </div>
 </div>
@@ -87,7 +87,7 @@ Work experience
   <div style="flex:1; min-width:0;">
     <strong>SONY Stuttgart Laboratory 1</strong><br>
     Research intern<br>
-    <small> Mar 2024 – Sept 2024 </small><br>
+    <small> Stuttgart, Germany, Mar 2024 - Sep 2026 </small>
     <br>Developed a sparse-view 3D reconstruction pipeline by leveraging multi-view diffusion models<br>
   </div>
 </div>
