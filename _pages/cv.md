@@ -93,7 +93,7 @@ Work experience
   
 Skills
 ======
-* Experienced in Python. Extensive use of PyTorch to design and train deep neural networks. 
+* Experienced in Python, extensive use of PyTorch to design and train deep neural networks
 * Working experience with `bash`, `slurm`, `git`, `docker`, `uv`, `conda`
 
 Publications
